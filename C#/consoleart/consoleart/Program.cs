@@ -10,6 +10,16 @@ namespace consoleart
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("EEEEEE    EEEEEE");
+            Console.WriteLine("E         E");
+            Console.WriteLine("E         E");
+            Console.WriteLine("EEEEEE    EEEEEE");
+            Console.WriteLine("E         E");
+            Console.WriteLine("E         E");
+            Console.WriteLine("EEEEEE    EEEEEE");
+            Console.ReadKey();
+            
+
         }
     }
 }
