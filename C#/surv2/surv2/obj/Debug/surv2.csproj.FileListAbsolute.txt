@@ -1,0 +1,8 @@
+C:\Users\ehekl941\Documents\SY22-23-but-its-cooler-\C#\surv2\surv2\bin\Debug\surv2.exe.config
+C:\Users\ehekl941\Documents\SY22-23-but-its-cooler-\C#\surv2\surv2\bin\Debug\surv2.exe
+C:\Users\ehekl941\Documents\SY22-23-but-its-cooler-\C#\surv2\surv2\bin\Debug\surv2.pdb
+C:\Users\ehekl941\Documents\SY22-23-but-its-cooler-\C#\surv2\surv2\obj\Debug\surv2.csproj.AssemblyReference.cache
+C:\Users\ehekl941\Documents\SY22-23-but-its-cooler-\C#\surv2\surv2\obj\Debug\surv2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ehekl941\Documents\SY22-23-but-its-cooler-\C#\surv2\surv2\obj\Debug\surv2.csproj.CoreCompileInputs.cache
+C:\Users\ehekl941\Documents\SY22-23-but-its-cooler-\C#\surv2\surv2\obj\Debug\surv2.exe
+C:\Users\ehekl941\Documents\SY22-23-but-its-cooler-\C#\surv2\surv2\obj\Debug\surv2.pdb

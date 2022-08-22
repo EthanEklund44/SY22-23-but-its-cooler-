@@ -8,15 +8,17 @@ namespace survey
 {
     internal class Program
     {
-        static void Main(string[] args)
+      
+        public void ShowQuestion(string q)
         {
+            Console.WriteLine(q);
             int numcorrect = 0;
-            int ans = 0;
+            string ans = "";
             int x;
             Console.WriteLine("1. What is 5+5? ");
             Console.WriteLine("A. 2  B. 10 C. 5 D.November");
             x = int.Parse(Console.ReadLine());
-            if (x == 10) 
+            if (x == 10)
                 numcorrect = numcorrect + 1;
             Console.WriteLine("What is 2 x 9?");
             Console.WriteLine("A. 6  B. 11  C. 18  D. 50");
@@ -34,7 +36,15 @@ namespace survey
             if (numcorrect == 3)
                 Console.WriteLine("You are a gifted person. or cheating :p");
             Console.ReadKey();
-            
+
         }
+        public static void ShowQuestion(string q)
+
+        { 
+            Console.Write(q);
+        
+        }
+
+        
     }
 }
