@@ -13,7 +13,7 @@ namespace surv2
             int correct = 0;
            correct += ShowQuestion("What is 1+1?", "a)1", "b)2", "c) 0", "d) 6", "b");
             correct += ShowQuestion("What is Mr.Clarke?", "a)god", "b)wizard", "c) teacher", "d) turtle", "c");
-            correct += ShowQuestion("WHO LET THE DOGS OUT?", "a)null", "b)you", "c) whowhowhowho", "d) the dogs", "c" +
+            correct += ShowQuestion("WHO LET THE DOGS OUT?", "a)null", "b)you", "c) whowhowhowho", "d)the dogs", "c" +
                 "");
             Console.WriteLine("You got {0} correct!", correct);
             Console.ReadKey();
