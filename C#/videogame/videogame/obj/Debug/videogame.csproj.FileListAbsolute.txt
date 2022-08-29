@@ -1,0 +1,11 @@
+C:\Users\ehekl941\Documents\SY22-23-but-its-cooler-\C#\videogame\videogame\bin\Debug\videogame.exe.config
+C:\Users\ehekl941\Documents\SY22-23-but-its-cooler-\C#\videogame\videogame\bin\Debug\videogame.exe
+C:\Users\ehekl941\Documents\SY22-23-but-its-cooler-\C#\videogame\videogame\bin\Debug\videogame.pdb
+C:\Users\ehekl941\Documents\SY22-23-but-its-cooler-\C#\videogame\videogame\obj\Debug\videogame.csproj.AssemblyReference.cache
+C:\Users\ehekl941\Documents\SY22-23-but-its-cooler-\C#\videogame\videogame\obj\Debug\videogame.csproj.SuggestedBindingRedirects.cache
+C:\Users\ehekl941\Documents\SY22-23-but-its-cooler-\C#\videogame\videogame\obj\Debug\videogame.Form1.resources
+C:\Users\ehekl941\Documents\SY22-23-but-its-cooler-\C#\videogame\videogame\obj\Debug\videogame.Properties.Resources.resources
+C:\Users\ehekl941\Documents\SY22-23-but-its-cooler-\C#\videogame\videogame\obj\Debug\videogame.csproj.GenerateResource.cache
+C:\Users\ehekl941\Documents\SY22-23-but-its-cooler-\C#\videogame\videogame\obj\Debug\videogame.csproj.CoreCompileInputs.cache
+C:\Users\ehekl941\Documents\SY22-23-but-its-cooler-\C#\videogame\videogame\obj\Debug\videogame.exe
+C:\Users\ehekl941\Documents\SY22-23-but-its-cooler-\C#\videogame\videogame\obj\Debug\videogame.pdb
